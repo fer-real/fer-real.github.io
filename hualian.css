@@ -2,8 +2,8 @@ body {
   background-color:#2e0a07;
 }
 
-div {
-  width:100%;
+.banner {
+  max-width:100%;
   padding:100px;
   margin-top:50px;
   background-image:url(hl-joy.jpg);
@@ -11,4 +11,6 @@ div {
   background-position:center;
   background-size:cover;
   text-align:center;
+  margin-left: auto;
+  margin-right: auto;
 }
